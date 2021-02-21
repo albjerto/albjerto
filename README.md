@@ -13,7 +13,8 @@ I'm a Master Degree student in Computer Engineering at the 🎓 [Unversity of Bo
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-222?style=flat-square&logo=OpenCV&logoColor=red" />
   <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-222?style=flat-square&logo=Three.js&logoColor=white" />
   <!--<img alt="Bash" src="https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=bash&logoColor=6da55f" /> -->
-  <img alt="Keras" src="https://img.shields.io/badge/-Keras-d00000?style=flat-square&logo=Keras&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/-Keras-d00000?style=flat-square&logo=Keras&logoColor=white" /> 
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-6b70db?style=flat-square&logo=Kotlin&logoColor=f1850b" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-333333?style=flat-square&logo=Node.js&logoColor=6da55f" />
   <img alt="C" src="https://img.shields.io/badge/-C-00599c?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-6195cb?style=flat-square&logo=C%2B%2B&logoColor=white" />
