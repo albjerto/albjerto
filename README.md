@@ -33,7 +33,7 @@ I'm a MEng in Computer Engineering graduated at the 🎓 [Unversity of Bologna](
  
  ## About me
  - 🎓 I graduated at the University of Bologna in Computer Engineering
- - 💻 I'm currently working on my Master Degree dissertation
+[//]: # (- 💻 I'm currently working as a software engineer for IPREL)
  - 📷 I enjoy taking pictures of landascapes
  - 🔭 I love learning new things: I'm currently learning Computer Graphics
  - :mount_fuji: I'm more of a mountain person
