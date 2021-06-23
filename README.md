@@ -8,6 +8,7 @@ I'm a MEng in Computer Engineering graduated at the 🎓 [Unversity of Bologna](
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-323330?style=flat-square&logo=javascript&logoColor=efd81c" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0969ad?style=flat-square&logo=jQuery&logoColor=79cff5" />
   <img alt="React" src="https://img.shields.io/badge/-React-282c34?style=flat-square&logo=react&logoColor=61dafb" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-32475b?style=flat-square&logo=vue.js&logoColor=3fb27f" />
   <img alt="Python" src="https://img.shields.io/badge/-python-1f425f?style=flat-square&logo=python&logoColor=ffe05c" />
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-231e42?style=flat-square&logo=Pytorch&logoColor=e14731" />
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-222?style=flat-square&logo=OpenCV&logoColor=red" />
