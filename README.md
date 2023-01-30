@@ -35,5 +35,5 @@ I'm a MEng in Computer Engineering graduated at the 🎓 [Unversity of Bologna](
  ## About me
  - 🎓 I graduated at the University of Bologna in Computer Engineering
  - 📷 I enjoy taking pictures of landascapes
- - 🔭 I love learning new things: I'm currently learning Computer Graphics
+ - 🔭 I love learning new things: I'm currently learning Game Development 🎮
  - :mount_fuji: I'm more of a mountain person
