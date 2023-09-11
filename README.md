@@ -1,7 +1,7 @@
 # Hi 👋 I'm Alberto
 [![Facebook Badge](https://img.shields.io/badge/-Alberto%20Jesu-036ee4?style=flat-square&labelColor=036ee4&logo=Facebook&logoColor=white&link=https://facebook.com/alberto.jesu)](https://facebook.com/alberto.jesu) [![Instagram Badge](https://img.shields.io/badge/-@albjerto-d9525d?style=flat-square&labelColor=d9525d&logo=Instagram&logoColor=white&link=https://instagram.com/albjerto)](https://instagram.com/albjerto) [![Linkedin Badge](https://img.shields.io/badge/-Alberto%20Jesu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alberto-jesu/)](https://www.linkedin.com/in/alberto-jesu/) [![Gmail Badge](https://img.shields.io/badge/-alberto.jesu1995@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alberto.jesu1995@gmail.com)](mailto:alberto.jesu1995@gmail.com)
 
-I'm a MEng in Computer Engineering graduated at the 🎓 [Unversity of Bologna](https://corsi.unibo.it/2cycle/ComputerEngineering). You can find my contacts above, or you could visit my :milky_way: [website](https://www.albjerto.github.io).
+I'm a MEng in Computer Engineering graduated at the 🎓 [Unversity of Bologna](https://corsi.unibo.it/2cycle/ComputerEngineering). You can find my contacts above, or you could visit my :milky_way: [website](https://albjerto.github.io).
 
 ## Some of the stuff I code with
 <p>
